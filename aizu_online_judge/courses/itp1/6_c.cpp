@@ -3,7 +3,7 @@
 using namespace std;
 
 /**
- *  https://onlinejudge.u-aizu.ac.jp/courses/lesson/2/ITP1/6/ITP1_6_C
+ * https://onlinejudge.u-aizu.ac.jp/courses/lesson/2/ITP1/6/ITP1_6_C
  */
 int main() {
   int n, b, f, r, v;
